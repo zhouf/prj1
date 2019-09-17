@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         out = findViewById(R.id.out);
-        out.setText("hhhhhhhh");
+        out.setText("22222");
 
         EditText input = findViewById(R.id.inp);
         String str = input.getText().toString();
